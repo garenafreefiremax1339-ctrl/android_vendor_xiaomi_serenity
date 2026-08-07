@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # android_vendor_xiaomi_serenity
 =======
-# Vendor blobs for Xiaomi Redmi serenity
+# Vendor blobs for Xiaomi Redmi A5 / Poco C71
 
 ```
 #
