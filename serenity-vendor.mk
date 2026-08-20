@@ -16407,7 +16407,7 @@ PRODUCT_PACKAGES += \
     libDispatchAdap \
     libDualCam_OnliCalib \
     libFaceDetectV3_SDK \
-    libGLES_mali \
+    libGLES_mali_vendor \
     libMNN \
     libMNN_CL \
     libOpenCL \
@@ -17031,9 +17031,9 @@ PRODUCT_PACKAGES += \
     vendor.xiaomi.hardware.misys@2.0.xml \
     vendor.xiaomi.hardware.misys@3.0.xml \
     vendor.xiaomi.hardware.misys@4.0.xml \
-    intsense_config_singlebokeh.bin \
-    intsense_config_singlebokeh.bin \
-    intsense_config_singlebokeh.bin \
+    intsense_config_singlebokeh_bokeh_cap.bin \
+    intsense_config_singlebokeh_bokeh_cap_rear.bin \
+    intsense_config_singlebokeh_bokeh_pre.bin \
     boardid_bin \
     boringssl_self_test32 \
     boringssl_self_test64 \
@@ -17114,40 +17114,40 @@ PRODUCT_PACKAGES += \
     mtd_trusty@1.3 \
     nvmerge \
     phasecheckserver \
-    readme \
-    readme \
+    readme_power_backlight \
+    readme_power_cpu_dvfs \
     fix_cpu_freq \
-    readme \
-    readme \
+    readme_power_cpu_fix_freq \
+    readme_power_cpu_hotplug \
     lit_cpu_freq \
-    readme \
+    readme_power_cpu_lit_freq \
     cpu_loading \
-    readme \
+    readme_power_cpu_loading \
     cpu_trans_table \
-    readme \
-    readme \
+    readme_power_cpu_trans_table \
+    readme_power_ddr_bm \
     ddr_bm \
     fix_ddr_freq \
-    readme \
+    readme_power_ddr_fix_freq \
     ddr_loading \
-    readme \
+    readme_power_ddr_loading \
     ddr_trans_table \
-    readme \
-    readme \
+    readme_power_ddr_trans_table \
+    readme_power_frame \
     fix_gpu_freq \
-    readme \
+    readme_power_gpu_fix_freq \
     gpu_loading \
-    readme \
+    readme_power_gpu_loading \
     gpu_trans_table \
-    readme \
+    readme_power_gpu_trans_table \
     interrupt \
-    readme \
-    readme \
-    readme \
+    readme_power_interrupt \
+    readme_power_loadings \
+    readme_power_paras \
     paras \
-    readme \
+    readme_power_tops \
     tops \
-    readme \
+    readme_power_total \
     refnotify \
     rkp_factory_extraction_tool \
     rpmbserver \
